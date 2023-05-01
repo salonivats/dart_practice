@@ -1,5 +1,5 @@
-import 'package:practice/practice.dart' as practice;
+import 'package:practice/practice.dart';
 
 void main(List<String> arguments) {
-  print('Hello world: ${practice.calculate()}!');
+  print('Hello world: ');
 }
